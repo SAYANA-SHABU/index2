@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("../image/145512413-open-book-with-pen-with-pen-against-the-background-of-a-stack-of-books-and-warm-evening-bokeh\ \(1\).jpg");
+    background-size: cover;
+}
+header{
+    background-color: black;
+    height: 60px;
+}
+.navigation{
+    float: right;
+    margin-top: 20px;
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    margin-top: 5%;
+    margin-right: 15px;
+    padding: 5px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.navigation a:hover{
+    background-color: teal;
+    color: black;
+}
+#logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 90px;
+    margin-top: 0.5%;
+
+}
+/*navbar styling ends*/
+/*aside styling starts*/
+.side {
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin : 100 px;
+    /*border: 2px solid red ;*/
+    float:left;
+    margin-left: 60px;
+    margin-top: 7%;
+
+
+}
+.side li{
+    padding: 2px;
+    list-style-type: square;
+}
+
+/*aside styling ends*/
+
+/*login styling starts*/
+.my_login{
+    border: 2px solid red;
+    float: right;
+    margin-right: 40px;
+    margin-top: 30px;
+    background-color: blanchedalmond;
+    margin-right: 30px;
+    padding:20px ;
+
+    
+}
+.my_login h2{
+    text-align: center;
+    
+}
+#logg {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    height: 1.5em;
+    width: 100%;
+
+}
+.container {
+    float: left;
+    margin-top: 17%;
+    margin-right: 40em;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+
+
+}
+.container2 {
+    float: left;
+    margin-top: 450px;
+    margin-right:500px;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+
+
+}
+.container3 {
+    float: left;
+    margin-top: 10%;
+    margin-left: px;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+}
+.container4{
+    float: left;
+    margin-top: 1%;
+    margin-right: 15px;
+    border: 2px solid red;
+    background-color: blanchedalmond;
+}
